@@ -202,3 +202,8 @@ new ideas begin presented,
 ** references
 ** diction
 ** Entertainment value
+
+* Technical bits
+** Gitignore
+** github
+curl https://www.gitignore.io/api/linux,emacs,python > .gitignore
